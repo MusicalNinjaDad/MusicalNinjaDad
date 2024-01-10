@@ -5,7 +5,7 @@ Previously, I prefered Matlab and Fortran to Java or C - go figure!
 
 ```python
 for language in otherlanguages:
-    assert language is not python
+    assert python is not language #yes it's technically backwards for good assert logic ...
 ```
 
 You'll find most of my work on https://dev.azure.com/MusicalNinjas ...
