@@ -1,4 +1,4 @@
-Returned to coding in order to help teach my kids, Got hooked via FooBar, fell in love with python, now experimenting with exposing rust to python. My current project is documenting a full-stack walk-through of the eco-system at [FizzBuzz: combining rust & python](https://musicalninjadad.github.io/FizzBuzz). 
+Returned to coding in order to help teach my kids, got hooked via FooBar, fell in love with python, now experimenting with exposing rust to python. My current project is documenting a full-stack walk-through of the eco-system at [FizzBuzz: combining rust & python](https://musicalninjadad.github.io/FizzBuzz). 
 
 In my day job I help technical people be happy at work (or try to, at least...)
 
