@@ -9,7 +9,7 @@ I prefer the style of Kent Beck to Uncle Bob.
 - python
 - zig can be fun
 
-Up for learning new ones (~maybe golang next?~ done that, no thanks!)
+Up for learning new ones (~maybe golang next? done that, no thanks!~)
 
 ### Things I've _enjoyed_ coding in the past:
 - Basic (late 80's)
