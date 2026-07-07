@@ -7,7 +7,7 @@ I prefer the style of Kent Beck to Uncle Bob.
 ## Current language preferences:
 - rust
 - python
-- zig can be fun
+- zig can be fun, go can be useful
 
 Up for learning new ones (~maybe golang next? done that, no thanks!~)
 
@@ -33,7 +33,7 @@ You'll find me creating test frameworks, coding helpers, automation tools - thin
 - [try_v2](https://github.com/MusicalNinjaDad/try_v2): to derive `Try` and enable `?` on your own enums
 - [pt](https://github.com/MusicalNinjaDad/pt): think uv/ruff/ty but for pytest not pip/black/mypy
 - [pyo3-testing](https://github.com/MusicalNinjas/pyo3-testing): for testing rust bindings destined for python
-- [snaggle](https://github.com/MusicalNinjaDad/snaggle): create secure single-app containers easily with minimal attack surface. My one (and probably only) forray into golang
+- [snaggle](https://github.com/MusicalNinjaDad/snaggle): create secure single-app containers easily with minimal attack surface. My first forray into golang
 - [pytest-doctest-mkdocstrings](https://github.com/MusicalNinjaDad/pytest-doctest-mkdocstrings): for those who like to enclose their python docstring code examples in markdown backticks. Naming stuff is hard, sometimes I fail!
 - [pytest-ipynb2](https://github.com/MusicalNinjaDad/pytest-ipynb2): if you want to have tests within your ipython notebooks and run them in your IDE/CI
 - [cibuildwheel-rust](https://github.com/MusicalNinjas/cibuildwheel-rust): to speed up the creation of python packages which use rust code
